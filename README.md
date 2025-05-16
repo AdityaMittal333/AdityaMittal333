@@ -12,8 +12,6 @@
   <a href="https://leetcode.com/u/Amittal333/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
----
-
 ## 🧠 About Me
 
 - 🎓 B.Tech CS Student at **Graphic Era Hill University**, Dehradun
@@ -29,17 +27,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Amittal333?ext=heatmap" alt="LeetCode Stats" />
 </p>
-
----
-
-## 🧮 LeetCode Contest Badges
-
-<p align="center">
-  <img src="https://cp-logo.vercel.app/leetcode/Amittal333?logo=true" alt="LeetCode Contest Badge" />
-</p>
-
-> 📌 Shows your LeetCode contest rating and rank updates.
-
 ---
 
 ## 🧰 Tech Stack
@@ -76,12 +63,4 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaMittal333&theme=radical" />
-</p>
-
----
-
-## 🌱 Contributions Calendar
-
-<p align="center">
-  <img src="https://github.com/AdityaMittal333/AdityaMittal333/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
